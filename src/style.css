@@ -1,0 +1,43 @@
+table {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+table, td {
+    border: 1px solid gray;
+    border-collapse: collapse;
+    color: white;
+}
+td {
+    width: 50px;
+    height: 50px;
+}
+.fal{
+    background: black;
+}
+.lamp{
+    background-image: url("light.png");
+    background-size: cover;
+    background-color: yellow;
+}
+.feny{
+    background-color: yellow;
+}
+.rossz{
+    background-color: red ;
+}
+#gameOver{
+    color: green;
+    
+    
+    font-size: larger;
+    font-weight: bold;
+    text-align:center;
+}
+.zold{
+    color:  rgb(147,217,118);
+    font-weight: bold;
+}
+
